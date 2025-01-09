@@ -4,4 +4,4 @@
 - 👀 I’m looking to collaborate on projects that will help me build up my knowledge and skills! 
 - 📫 How to reach me bianca.tabosa@gmail.com
 
-- # Python #SQL #DataScience #IA
+- #Python #SQL #DataScience #IA
